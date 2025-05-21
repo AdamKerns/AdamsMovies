@@ -1,0 +1,10 @@
+Backend:
+    Will use PostgreSQL
+
+Frontend:
+    Light Mode:
+        Light Blue forefront with darker green background
+        Navbar:
+            Beige or find colors that work well
+    Dark Mode:
+    
