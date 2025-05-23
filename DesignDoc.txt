@@ -2,9 +2,14 @@ Backend:
     Will use PostgreSQL
 
 Frontend:
+    Cards for the Movies
+    Add Movies to ToWatch and MoviesWatched functionality
+    Changing a movie from ToWatch to MoviesWatched functionality
     Light Mode:
         Light Blue forefront with darker green background
         Navbar:
             Beige or find colors that work well
     Dark Mode:
-    
+        Light Grey forefront with a black or dark blue background
+        Navbar:
+            Purple of find colors that work well 
