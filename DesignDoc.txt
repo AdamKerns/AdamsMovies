@@ -1,5 +1,6 @@
 Backend:
     Will use PostgreSQL
+    Update/Add Functionality in Software
 
 Frontend:
     Cards for the Movies
