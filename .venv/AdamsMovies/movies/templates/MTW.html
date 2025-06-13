@@ -5,34 +5,11 @@
   <div>
     <h2>Movies To Watch</h2>
     <p id="MoviesTW"></p>
-
-    <script>
-      const movies = ["something", "nothing", "some movie", "some other movie"];
-      let size = movies.length;
-      let text = "";
-      for(var i = 0; i < size; i++) {
-          text += "-  " + movies[i] + "<br>";
-      }
-      document.getElementById("MoviesTW").innerHTML = text;
-    </script>
-
   </div>
 
   <div>
     <h2>Movies Watched</h2>
     <p id="MoviesW"></p>
-
-    <script>
-
-      const moviesWatched = ["movie1", "movie2", "movie3", "movie4"];
-
-      let sizeW = moviesWatched.length;
-      let textW = "";
-      for(var i = 0; i < sizeW; i++) {
-          textW += "-  " + moviesWatched[i] + "<br>";
-      }
-      document.getElementById("MoviesW").innerHTML = textW;
-    </script>
   </div>
 
   <div>
@@ -47,13 +24,6 @@
     <h3>Random Movie</h3>
     <p id="randMovie"></p>
     <button onclick="random()">Press for Random Movie</button>
-
-    <script>
-      function random() {
-        let randIndex = Math.floor(Math.random() * sizeW); 
-        document.getElementById("randMovie").innerHTML = movies[randIndex];
-      }
-    </script>
 
   </div>
   

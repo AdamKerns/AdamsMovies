@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/poo.ping/Documents/GitHub/Movies Project/backend/.venv/bin/python" "$0" "$@"
+'''exec' "/Users/poo.ping/Documents/GitHub/Movies Project/AdamsMovies/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
