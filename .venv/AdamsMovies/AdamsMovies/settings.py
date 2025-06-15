@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'AdamsMovies.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "postgres",
+        "NAME": "AdamsMovies",
         "USER": "postgres",
-        "PASSWORD": "Evileyebrow1!",
-        "HOST": "adams-movies.cd4a80coog4q.us-east-2.rds.amazonaws.com",
+        "PASSWORD": "evileyebrow1",
+        "HOST": "localhost",
         "PORT": "5432",
     }
 }
