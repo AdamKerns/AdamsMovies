@@ -1,4 +1,4 @@
-Title (String title of movie if a comma is used it is replaced with `), Prime Score (Float out of 5), Rotten Tomatoes Score (Float out of 10), IMDb Score (Float out of 10), OnionPlay Link (String link to onionplay or No Link), Genre List (String list of genres), My Score (Float out of 10), IMDb Summary (String description of movie if a comma is used it is replaced with `), Awards (String list separated by '+'), Must Watch (Bool value) 
+Title,Prime Score,Rotten Tomatoes Score,IMDb Score,OnionPlay Link,Genre List,My Score,IMDb Summary,Awards,Must Watch 
 The Wizard of Oz,4.8,8.9,8.1,https://onionplay.se/movies/the-wizard-of-oz-1939/ ,Musical Fantasy,8.5,Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard` who can return her to her home and fulfill the others' wishes.,Academy Award for Best Music,True
 Fantasia 2000,4.5,7.5,7.1,No Link,Musical Fantasy Animation,9,An update of the original film with new interpretations of great works of classical music.,Vision Award for Theatrical Motion Pictures,True
 Singin' in the Rain,4.8,9.5,8.3,https://onionplay.se/movies/singin-in-the-rain-1952/ , Musical Classic Rom-Com,7.2,A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.,NBR Award + Photoplay Award + Inducted into: OFTA Film Hall of Fame and National Film Registry,False
@@ -370,7 +370,8 @@ Jurassic World: Fallen Kingdom,4.6,4.7,6.1,https://onionplay.ch/movie/9740-watch
 Spider-Man: No Way Home,4.6,4.7,6.1,https://onionplay.ch/movie/21863-watch-spider-man-no-way-home-2021-online/,
 Somewhere in Time,4.6,5.2,7.2,
 Chicken Little,4.7,3.7,5.7,
-Better Off Dead
-I Saw The TV Glow
-Sight
-Cabrini
+Better Off Dead,
+I Saw The TV Glow,
+Sight,
+Cabrini,
+Snow White (2025),
